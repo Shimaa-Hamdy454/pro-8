@@ -1,0 +1,53 @@
+ .main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+.div1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.div1 h2 {
+  color: #333;
+  font-size: 35px;
+  margin-bottom: 40px;
+  font-weight: 700;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+} 
+
+ 
+
+
+.div1 input {
+  background-color: #ffffff;
+  width: 300px;
+  max-width: 90%;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 17px;
+  margin-bottom: 18px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+ 
+}
+
+.div1 input:focus {
+  border-color: #5a7d8a;
+}
+
+.div1 p {
+  color: #5a7d8a;
+  font-size: 16PX;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+ 
+ 
+ 

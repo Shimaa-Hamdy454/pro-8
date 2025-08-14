@@ -1,0 +1,33 @@
+ .footer {
+  background-color: #fafafa; 
+  color: #333;
+  padding: 25px 15px;
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.08); 
+}
+
+.footer-section h3 {
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: #333;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.footer-section .icons {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
+
+.footer-section .icons a {
+  color: #7b8d93;
+  font-size: 25px;
+}
+
+.footer-section .icons a:hover {
+  color: #5a7d8a; 
+  transform: scale(1.2);
+}
+
